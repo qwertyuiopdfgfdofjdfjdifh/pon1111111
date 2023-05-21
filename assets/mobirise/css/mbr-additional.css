@@ -1727,27 +1727,6 @@ section.lazy-placeholder:after {
 .cid-tEeIoyxCpP .mbr-section-subtitle {
   color: #767676;
 }
-.cid-tEeB9G8qz7 {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-tEeB9G8qz7 .image-block {
-  margin: auto;
-}
-.cid-tEeB9G8qz7 figcaption {
-  position: relative;
-}
-.cid-tEeB9G8qz7 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-tEeB9G8qz7 .image-block {
-    width: 100% !important;
-  }
-}
 .cid-tEeBCJOa4H {
   padding-top: 30px;
   padding-bottom: 30px;
